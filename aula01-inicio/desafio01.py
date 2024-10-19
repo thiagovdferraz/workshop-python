@@ -9,10 +9,11 @@ salario = float(input("Digite seu salário: "))
 bonus = float(input("Digite a porcentagem do bônus: "))/100
 
 # valor do bonus final
-valor_final = round(1000 + salario*bonus,2)
+constante_bonus = 1000
+valor_final = round(constante_bonus + salario*bonus,2)
 
 # imprima o calculo
-print("KPI: 1000 + salário*bônus")
+print(f"KPI: {constante_bonus} + salário*bônus")
 print("")
 
 # valores
