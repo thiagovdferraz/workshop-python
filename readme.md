@@ -18,3 +18,7 @@ TypeError, Type Check, Type Conversion, try-except e if
 Debug, IF, FOR, While, Listas e Dicionários
 
 * Debug: executar o código linha a linha para encontrar possíveis bugs
+* exemplo com while e for
+* exemplo com condicinal if
+* entender dicionários: [Ver aula dicionários](https://www.youtube.com/watch?v=ZWj8o692qGY)
+* entender listas
