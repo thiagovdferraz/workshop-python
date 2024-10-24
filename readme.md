@@ -13,3 +13,8 @@ TypeError, Type Check, Type Conversion, try-except e if
 * converter variaveis de um tipo para outro: int para str
 * tratativas de erros
 * condicional if, elif
+
+## Aula 03
+Debug, IF, FOR, While, Listas e Dicionários
+
+* Debug: executar o código linha a linha para encontrar possíveis bugs
