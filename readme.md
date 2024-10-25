@@ -22,3 +22,11 @@ Debug, IF, FOR, While, Listas e Dicionários
 * exemplo com condicinal if
 * entender dicionários: [Ver aula dicionários](https://www.youtube.com/watch?v=ZWj8o692qGY)
 * entender listas
+
+## Aula 04
+Typing, listas e dicionários
+[Teoria Jornada](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/Bootcamp%20-%20Python%20para%20dados/aula04)
+
+* tipos complexos: listas e dicionários
+* type hint: ajuda a tornar o código mais legível e seguro. Ele não converte o tipo da variável (faz cast).
+* dicionários vs dataframes vs tabelas vs excel
