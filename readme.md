@@ -25,6 +25,7 @@ Debug, IF, FOR, While, Listas e Dicionários
 
 ## Aula 04
 Typing, listas e dicionários
+
 [Teoria Jornada](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/Bootcamp%20-%20Python%20para%20dados/aula04)
 
 * tipos complexos: listas e dicionários
