@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "one-billion-row-challenge-python"
+name = "one-billion-row-challenge-python-main"
 version = "0.1.0"
 description = ""
 authors = ["Luciano Filho <lvgalvaofilho@gmail.com>"]
