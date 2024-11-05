@@ -51,7 +51,7 @@ Funções em Python e Estrutura de Dados
 
 As funções em Python são uma das estruturas fundamentais da linguagem, permitindo a reutilização de código, a organização e a modularidade dos programas.
 
-Projeto
+**Projeto**
 
 Tarefas:
 
