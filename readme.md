@@ -57,4 +57,4 @@ Tarefas:
 
 * Ler o arquivo CSV e carregar os dados.
 * Processar os dados em um dicionário, onde a chave é a categoria, e o valor é uma lista de dicionários, cada um contendo informações do produto (Produto, Quantidade, Venda).
-* Calcular o total de vendas `(Quantidade * Venda)` por categoria.
+* Filtrar somente vendas com status de entrega igual a `True`.
