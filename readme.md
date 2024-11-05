@@ -40,3 +40,21 @@ Desafio para ler 1 Bilhão de linhas via CSV - Fork Projeto Luciano Galvão
 * teste com polars
 * teste com dask
 * teste com duckdb
+
+## Aula 06
+
+* conteúdo em outro projeto
+
+## Aula 07
+
+Funções em Python e Estrutura de Dados
+
+As funções em Python são uma das estruturas fundamentais da linguagem, permitindo a reutilização de código, a organização e a modularidade dos programas.
+
+Projeto
+
+Tarefas:
+
+* Ler o arquivo CSV e carregar os dados.
+* Processar os dados em um dicionário, onde a chave é a categoria, e o valor é uma lista de dicionários, cada um contendo informações do produto (Produto, Quantidade, Venda).
+* Calcular o total de vendas `(Quantidade * Venda)` por categoria.
